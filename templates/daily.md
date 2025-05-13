@@ -11,21 +11,21 @@
 
 ## Tasks & Progress
 ### Completed
-- [x] Task 1
+- Task 1
   - Time spent: [Duration]
   - Notes: [Any important details or blockers encountered]
-- [ ] Task 2
+- Task 2
   - Time spent: [Duration]
   - Notes: [Any important details or blockers encountered]
 
 ### In Progress
-- [ ] Task 3
+- Task 3
   - Current status: [What's been done]
   - Next steps: [What needs to be done]
   - Blockers: [If any]
 
 ### Blocked/Deferred
-- [ ] Task 4
+- Task 4
   - Reason for blocking: [Why it's blocked]
   - Action needed: [What's needed to unblock]
 
@@ -55,6 +55,6 @@
 - Lessons: [What you learned]
 
 ## Tomorrow's Plan
-- [ ] [Task to start with]
-- [ ] [Other planned tasks]
-- [ ] [Follow-ups needed]
+- [Task to start with]
+- [Other planned tasks]
+- [Follow-ups needed]
