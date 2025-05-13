@@ -24,8 +24,9 @@
   - Next steps: [What needs to be done]
   - Blockers: [If any]
 
-### Blocked/Deferred
+### Inventory
 - Task 4
+  - Priority: [How urgent is it]
   - Reason for blocking: [Why it's blocked]
   - Action needed: [What's needed to unblock]
 
